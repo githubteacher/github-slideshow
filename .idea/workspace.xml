@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< Updated upstream
   <component name="ChangeListManager">
     <list default="true" id="65f7fe09-a545-44d5-aa9c-6e3ed3697107" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/_posts/0000-01-02-intro.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/0000-01-01-intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/0000-01-01-intro.md" afterDir="false" />
     </list>
+=======
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8e945c9-4dc3-41ab-85e5-6b759b43ef24" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,13 +25,18 @@
           <entry type="LOCAL">
             <value>
               <list>
+<<<<<<< Updated upstream
                 <branch-info repo="$PROJECT_DIR$" source="update-slide" />
+=======
+                <branch-info repo="$PROJECT_DIR$" source="my-slide" />
+>>>>>>> Stashed changes
               </list>
             </value>
           </entry>
         </map>
       </branch-storage>
     </favorite-branches>
+<<<<<<< Updated upstream
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -42,6 +55,26 @@
     <option name="showPreview" value="true" />
   </component>
   <component name="ProjectId" id="2HN69RRl6rqLQsxpDDoHrw3PkYr" />
+=======
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Program Files (x86)/ASF/maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HN47cvaXWDctURsxQD4HDpyV0T" />
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,6 +83,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< Updated upstream
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -61,15 +95,30 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\GitHub\github-slideshow\_posts" />
     </key>
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+>>>>>>> Stashed changes
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="65f7fe09-a545-44d5-aa9c-6e3ed3697107" name="Changes" comment="" />
       <created>1668113041730</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668113041730</updated>
+=======
+      <changelist id="f8e945c9-4dc3-41ab-85e5-6b759b43ef24" name="Changes" comment="" />
+      <created>1668112041374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668112041374</updated>
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
